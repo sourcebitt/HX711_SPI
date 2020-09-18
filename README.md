@@ -1,3 +1,9 @@
+I had to adjust code slightly to make it run. I added comments in code which said what changes had been made. In the adjusted version all of the below actions are valid. Code adjustmet was done solely for the purpose of being able to compile the program without errors and to have it connect with the scale sensor.
+
+SOURCEBIT
+
+---------------------------------- README.md by dudapicker ----------------------------------------
+
 # hx711_SPI
 HX711 weight scale interface with Raspberry PI using SPI communication
 
